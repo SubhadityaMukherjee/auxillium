@@ -5,7 +5,14 @@
     "strangle",
     "locking out",
     "weapons",
-    "punching"
+    "punching",
+    "molestatation",
+    "physical",
+    "imprison"
+  ],
+  "image":[
+    "porn",
+    "image"
   ],
   "emotional": [
     "emotional",
@@ -20,7 +27,8 @@
     "theft",
     "money",
     "buying",
-    "financial"
+    "financial",
+    "dowry"
   ],
   "sexual": [
     "rape",
@@ -34,7 +42,8 @@
     "sex jokes",
     "touch",
     "prostitute",
-    "sold"
+    "sold",
+    "work place"
   ],
   "social": [
     "spying",
@@ -44,6 +53,8 @@
     "email",
     "call",
     "phone",
-    "social media"
+    "social media",
+    "defame",
+    "molestatation"
   ]
 }

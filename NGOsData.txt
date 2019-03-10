@@ -1,0 +1,31 @@
+Shakti Shalini,950064969,Tamil Nadu, physical
+SNEHA,912120260, Mumbai, domestic, emotional, sexual, financial
+Asks Foundation,916950863,Uttar Pradesh, domestic
+Ashraya Women’s Centre,904138310, South India, domestic, emotional
+Aequitas,91 9322933951, India, domestic violence, sexual
+Vojvodina, 977225762,Maharashtra, social
+Kragujevac,913552692, Kerela, domestic
+ASTRA Anti-Trafficking,961324337, Delhi, social, sexual, financial
+Majlis,935369124, Mumbai, sexual
+CARE,973450424, sexual,domestic
+Dilaasa centre,930408993, Mumbai, domestic
+Amnesty International,986672850, worldwide, sexuals
+Varangana, 965070561,Uttar Pradesh, sexual, social
+Bharathi Women,921480150, Tamil Nadu, financial
+Shiv Shakti, Mumbai, financial
+Equality Now,Delhi, social, emotional
+Battered Women Justice,930752280, Orissa, sexual, emotional
+I'm worth defending,965459255, New Delhi, sexual
+Samaj Seva Sansthaan,983725126, Uttar Pradesh, social, domestic
+Sakhya The women guidance,992015042, West Bengal, emotional, sexual
+Mahaan Shakti,996515582, Maharashtra, social, domestic
+Anti Dowry Movement,927784689, Andhra Pradesh, financial, emotional
+Anti Dowry Guidance,904662149, Karnataka, financial, emotional 
+Mahila Takraar Niwaran,900081167, Madhya Pradesh, social
+
+
+ 
+
+
+ 
+

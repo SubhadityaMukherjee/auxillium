@@ -1,0 +1,49 @@
+{
+  "domestic": [
+    "domestic",
+    "slapping",
+    "strangle",
+    "locking out",
+    "weapons",
+    "punching"
+  ],
+  "emotional": [
+    "emotional",
+    "yelling",
+    "insulting",
+    "stalking",
+    "suicide",
+    "online",
+    "refusing sex"
+  ],
+  "financial": [
+    "theft",
+    "money",
+    "buying",
+    "financial"
+  ],
+  "sexual": [
+    "rape",
+    "pain",
+    "forcing sex",
+    "porn",
+    "naked",
+    "strip",
+    "sex",
+    "private parts",
+    "sex jokes",
+    "touch",
+    "prostitute",
+    "sold"
+  ],
+  "social": [
+    "spying",
+    "in front of",
+    "monitor",
+    "social media",
+    "email",
+    "call",
+    "phone",
+    "social media"
+  ]
+}

@@ -12,8 +12,8 @@ Dilaasa centre,930408993, Mumbai, domestic
 Amnesty International,986672850, worldwide, sexuals
 Varangana, 965070561,Uttar Pradesh, sexual, social
 Bharathi Women,921480150, Tamil Nadu, financial
-Shiv Shakti, Mumbai, financial
-Equality Now,Delhi, social, emotional
+Shiv Shakti,977225762, Mumbai, financial
+Equality Now,Delhi,950064969, social, emotional
 Battered Women Justice,930752280, Orissa, sexual, emotional
 I'm worth defending,965459255, New Delhi, sexual
 Samaj Seva Sansthaan,983725126, Uttar Pradesh, social, domestic

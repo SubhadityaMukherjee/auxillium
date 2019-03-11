@@ -13,10 +13,11 @@ def extract(str):
     val = []
     for a in cleaned:
         for b in fp:
-            rat= fuzz.ratio(a,b)
-            if rat >50:
-                # print(a,b)
-                val.append(b)
+            for c in fp[b]:
+                rat= fuzz.ratio(a,c)
+                if rat >50:
+                    # print(a,b)
+                    val.append(b)
     # print(set(val))
     return val
 

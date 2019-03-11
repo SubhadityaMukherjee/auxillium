@@ -25,19 +25,26 @@ def getissue():
 	fireba = firebase.FirebaseApplication('https://auxilium-android.firebaseio.com/', None)
 	result = fireba.get('/reports', None)
 	print('entered')
-	
+	ng = ngo()
+
 	f = open('issues.json','w+')
 	d = []
 	for a in result:
 		if(len(result[a]['crimeType'])==0):
-
-			# d.append([result[a],extractIssue.extract(result[a]['phrase'])])
-			# print(result[a]['phrase'])
-			# print(a,extractIssue.extract(result[a]['phrase'])[0])
-			result[a]['crimeType'] = extractIssue.extract(result[a]['phrase'])[0]
+			crime = extractIssue.extract(result[a]['phrase'])[0]
+			for p in ng:
+				l = ng[p]
+				# print(l)
+				for b in ng[p]:
+					if(crime==b):
+						result[a]['ngoLocation']=ng[p][2]
+						result[a]['ngoName']=p
+						result[a]['ngoPhoneNumber']=ng[p][0]
+			result[a]['crimeType'] = crime
 			# print(result)
 			fireba.put('/reports',a,result[a])
 	print('Done')
+	
 
 # getissue()
 		
@@ -45,7 +52,7 @@ def getissue():
 def connect_iss_to_ngo():
 	isp = getissue()
 	print(isp)
-	issf = isp[-1]
+	issf = isp[0]
 	iss = issf[1][0]
 	# print(iss) 
 	ng = ngo()
@@ -57,7 +64,7 @@ def connect_iss_to_ngo():
 		for b in ng[a]:
 			if(iss==b):
 				toconn.append([iss,a,l[0]])
-	# print(toconn)
+	print(toconn)
 	ch = random.choice(toconn)
 	result['crimeType']=ch[0]
 

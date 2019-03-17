@@ -1,0 +1,6 @@
+Flask==0.12
+fuzzywuzzy==0.17.0
+nltk==3.3
+python_firebase==1.2
+rasa_nlu==0.14.4
+firebase==3.0.1
